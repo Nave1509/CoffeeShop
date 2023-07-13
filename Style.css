@@ -476,11 +476,13 @@ section {
 .products .box-container .myProduct {
   text-align: center;
   border: var(--border);
+  padding: 2rem;
   margin: 4px;
   width: 31%;
 }
 .productImg {
   height: 25rem;
+  width: 100%;
 }
 .shop-container .box-container .myProduct .beforePrice {
   text-decoration: line-through;
